@@ -1,0 +1,19 @@
+{
+  "name": "not-groovy",
+  "version": "1.0.0",
+  "description": "yeet",
+  "main": "index.js",
+  "author": "StephenCole19",
+  "dependencies": {
+    "@discordjs/builders": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
+    "discord-api-types": "^0.24.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^13.2.0",
+    "ffmpeg-static": "^4.4.0",
+    "play-dl": "^1.2.3",
+    "winston": "^3.3.3",
+    "youtube-audio-stream": "^0.3.30"
+  }
+}
